@@ -8,5 +8,5 @@
 
 ## Parameters
 * ComputerName
-** What computer name would you like to target? Default is Google DNS (8.8.8.8).
+    * What computer name would you like to target? Default is Google DNS (8.8.8.8).
 * 
